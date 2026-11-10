@@ -14,5 +14,5 @@
 ---
 
 ### 💻 Stack & Herramientas
-- **Lenguajes:** Python, R, C++
+- **Lenguajes:** Python, R
 - **Herramientas:** Git, VS Code, Jupyter Notebooks, PYQt
